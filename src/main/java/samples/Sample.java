@@ -8,5 +8,6 @@ public class Sample {
         Map<Integer, String> commits = new HashMap();
         commits.put(1, "1st commit");
         commits.put(2, "2nd commit");
+        commits.put(3, "3d commit");
     }
 }
