@@ -17,4 +17,8 @@ public class Sample {
     public void someMethod3() {
 
     }
+
+    public void someMethod() {
+
+    }
 }
