@@ -7,7 +7,7 @@ public class Sample {
     public static void main(String[] args) {
         Map<Integer, String> commits = new HashMap();
         commits.put(1, "1");
-        commits.put(2, "commit");
+        commits.put(2, "2");
         commits.put(3, "3d commit");
         commits.put(4, "4th commit");
         commits.put(5, "c5");
