@@ -10,7 +10,7 @@ public class Sample {
         commits.put(2, "2nd commit");
         commits.put(3, "3d commit");
         commits.put(4, "4th commit");
-        commits.put(5, "commit5");
+        commits.put(5, "c5");
         commits.put(6, "commit6");
     }
 
