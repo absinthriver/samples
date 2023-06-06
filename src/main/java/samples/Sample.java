@@ -11,4 +11,8 @@ public class Sample {
         commits.put(3, "3d commit");
         commits.put(4, "4th commit");
     }
+
+    public void someMethod3() {
+
+    }
 }
