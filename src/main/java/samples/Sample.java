@@ -14,8 +14,6 @@ public class Sample {
         commits.put(6, "c6");
         commits.put(5, "5");
         commits.put(6, "6");
-        commits.put(5, "5");
-        commits.put(6, "commit");
     }
 
     public void someMethod3() {
