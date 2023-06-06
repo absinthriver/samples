@@ -18,6 +18,10 @@ public class Sample {
 
     }
 
+    public void someMethod4() {
+
+    }
+
     public void someMethod() {
 
     }
