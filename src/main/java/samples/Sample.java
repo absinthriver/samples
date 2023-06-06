@@ -22,7 +22,4 @@ public class Sample {
 
     }
 
-    public void someMethod2() {
-
-    }
 }
