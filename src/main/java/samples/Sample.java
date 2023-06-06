@@ -21,4 +21,8 @@ public class Sample {
     public void someMethod() {
 
     }
+
+    public void someMethod2() {
+
+    }
 }
