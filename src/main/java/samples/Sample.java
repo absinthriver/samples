@@ -9,5 +9,6 @@ public class Sample {
         commits.put(1, "1st commit");
         commits.put(2, "2nd commit");
         commits.put(3, "3d commit");
+        commits.put(4, "4th commit");
     }
 }
